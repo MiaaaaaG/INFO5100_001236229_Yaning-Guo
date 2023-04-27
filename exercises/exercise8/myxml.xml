@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+    <Book>
+        <title>Atomic Habits</title>
+        <publishedYear>2018</publishedYear>
+        <numberOfPages>320</numberOfPages>
+        <authors>
+            <author>James Clear</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Lessons in Chemistry</title>
+        <publishedYear>2022</publishedYear>
+        <numberOfPages>400</numberOfPages>
+        <authors>
+            <author>Bonnie Garmus</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>101 Essays That Will Change The Way You Think</title>
+        <publishedYear>2018</publishedYear>
+        <numberOfPages>448</numberOfPages>
+        <authors>
+            <author>Brianna Wiest</author>
+        </authors>
+    </Book>
+</Books>
