@@ -1,0 +1,29 @@
+{
+  "Books": [
+    {
+      "title": "Atomic Habits",
+      "publishedYear": 2018,
+      "numberOfPages": 320,
+      "authors": [
+        "James Clear"
+      ]
+    },
+    {
+      "title": "Lessons in Chemistry",
+      "publishedYear": 2022,
+      "numberOfPages": 400,
+      "authors": [
+        "Bonnie Garmus"
+      ]
+    },
+    {
+      "title": "101 Essays That Will Change The Way You Think",
+      "publishedYear": 2018,
+      "numberOfPages": 448,
+      "authors": [
+        "Brianna Wiest"
+      ]
+    }
+  ]
+}
+
